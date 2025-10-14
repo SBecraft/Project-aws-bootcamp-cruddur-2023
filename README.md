@@ -29,8 +29,8 @@ At the start of the bootcamp you need to create a new Github Repository from thi
 
 The `/journal` directory contains
 
-- [ ] [Week 0](journal/week0.md)
-- [ ] [Week 1](journal/week1.md)
-- [ ] [Week 2](journal/week2.md)
-- [ ] [Week 3](journal/week3.md)
+- [ ] [Week 0](https://github.com/SBecraft/Project-aws-bootcamp-cruddur-2023/blob/main/aws-bootcamp-cruddur-2023-main/journal/week0.md)
+- [ ] [Week 1](https://github.com/SBecraft/Project-aws-bootcamp-cruddur-2023/blob/main/aws-bootcamp-cruddur-2023-main/journal/week1.md)
+- [ ] [Week 2](https://github.com/SBecraft/Project-aws-bootcamp-cruddur-2023/blob/main/aws-bootcamp-cruddur-2023-main/journal/week2.md)
+- [ ] [Week 3](https://github.com/SBecraft/Project-aws-bootcamp-cruddur-2023/blob/main/aws-bootcamp-cruddur-2023-main/journal/week3.md)
 
