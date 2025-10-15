@@ -238,7 +238,7 @@ aws sns subscribe \
 aws cloudwatch put-metric-alarm --cli-input-json file://aws/json/alarm_config.json
 ```
 
-![My alarm-config.json file](https://github.com/SBecraft/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json)
+![My alarm-config.json file](https://github.com/SBecraft/Project-aws-bootcamp-cruddur-2023/blob/main/aws-bootcamp-cruddur-2023-main/_docs/assets/week-0-assets/alarm-config.json)
 
 ![json code for setting up billing alarm via Command Prompt](https://github.com/SBecraft/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/week-0-assets/alarm-code.png)
 
