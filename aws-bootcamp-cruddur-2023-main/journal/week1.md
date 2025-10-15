@@ -236,7 +236,6 @@ docker run --rm -p 4567:4567 -it backend-flask
 ![Port 4567 unlocked](https://github.com/SBecraft/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/week-1-assets/port4567-unlocked.png)
 
 - I got a 404-ERROR as expected because I still need to reset the environment variables.
-
 ![Image after running container](https://github.com/SBecraft/Project-aws-bootcamp-cruddur-2023/blob/main/aws-bootcamp-cruddur-2023-main/_docs/assets/week-1-assets/image-after-running-container-new.png)
 
 
