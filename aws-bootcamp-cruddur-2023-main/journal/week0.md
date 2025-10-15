@@ -98,7 +98,7 @@ aws –cli -auto-prompt
 aws sts get-caller-identity
 ```
   
-![IAM User Security Credentials Verified in Cloudshell](https://github.com/SBecraft/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/week-0-assets/cloudshell-screenshot-new.png)
+![IAM User Security Credentials Verified in Cloudshell](https://github.com/SBecraft/Project-aws-bootcamp-cruddur-2023/blob/main/aws-bootcamp-cruddur-2023-main/docs/assets/week-0-assets/cloudshell-screenshot-new.png)
 
 &NewLine;
 &NewLine;
